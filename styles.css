@@ -1,0 +1,13 @@
+body {
+    background-color: #2d2d2d;
+}
+
+p {
+    color: white;
+}
+
+.Message {
+    background-color: #232629;
+    border: 4px double black;
+    margin-top: 15px;
+}
